@@ -1,3 +1,9 @@
+"""
+Implements a LED using a Raspberry Pi.
+Runs a S.O.S. signal.
+"""
+
+
 import RPi.GPIO as GPIO
 import time
 

@@ -1,4 +1,9 @@
+"""
+btn_led.py 
 
+Uses a button to turn on a light. 
+
+"""
 import RPi.GPIO as GPIO
 import time 
 

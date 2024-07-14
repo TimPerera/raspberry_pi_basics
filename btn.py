@@ -1,3 +1,6 @@
+"""
+Implements a button in Raspberry Pi.
+"""
 import RPi.GPIO as GPIO
 import time 
 
